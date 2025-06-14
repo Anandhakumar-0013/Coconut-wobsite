@@ -1,0 +1,322 @@
+body{
+    overflow-x: hidden;
+}
+.div2{
+    background-color:#EAFFEB;
+    width: 1760px;
+    position: relative;
+    right: 30px;
+}
+.div2 .phone {
+  position: relative;
+  left: 690px;
+  padding-top: 10px;
+  font-size: 25px; 
+  color:black;
+  font-family: cursive;
+}
+.div2 .Please {
+  text-align: center;
+  padding-bottom: 10px;
+  width: 800px;
+  font-size: 20px;
+  position: relative;
+  left: 400px;
+  color:black;
+  font-size: 25px;
+  font-family: cursive;
+
+}
+.div1 {
+    img{
+        height: 150px;
+        position: relative;
+        left: 170px;;
+    }
+
+    .chanel{
+
+        display: flex;
+        gap:30px;
+        position: relative;
+        left:250px;
+        font-size:20px;
+        font-family: cursive;
+
+}
+}
+.div1{
+
+     display: flex;
+
+    .india{
+    position: relative;
+    left: 200px;
+    font-size: 20px;
+    font-family:cursive;
+    }
+
+    .contact{
+        position: relative;
+        left: 320px;
+        font-size: 20px;
+        font-family:cursive;
+        bottom: 10px;
+    }
+    .div11{
+       
+        margin-left: 40px;
+        position: relative;
+        top: 30px;
+
+        img{
+            height: 40px;
+            width: 40px;
+            position:relative;
+            left:300px;
+            bottom: 45px;
+        }
+    }
+     .div111{
+       
+        margin-left: 170px;
+        position: relative;
+        top: 30px;
+
+        img{
+            height: 60px;
+            width: 60px;
+            position:relative;
+            left:130px;
+            bottom: 55px;
+        }
+    }
+      
+}
+.div{
+    background-color:darkseagreen;
+    text-align: center;
+    padding: 10px;
+    font-family: cursive;
+    font-size:30px;
+    color: white;
+    
+}
+.div2 .wel{ 
+    text-align: center;
+    font-family:cursive;
+    font-size: 30px;
+    color:black;
+    padding: 15px;
+
+}
+.div3{
+        .div31{
+            text-align: center;
+            font-size: 13px;
+        }
+        .div32{
+            font-size: 15px;
+            text-align: center;
+        }
+}
+.div4
+{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    gap: 150px;
+
+    .div11{
+        background-color: azure;
+        padding: 10px;
+        text-align: center;
+        border-radius: 40px;
+        img{
+            border-radius: 100px;  
+        }
+    }
+    .div12{
+        background-color: azure;
+        padding: 10px;
+        text-align: center;
+        border-radius: 40px;
+        img{
+            border-radius: 100px;
+        }
+         
+    }
+    .div13{
+        background-color: azure;
+        padding: 10px;
+        height:340px;
+        text-align: center;
+        border-radius: 40px;
+        img{
+            border-radius: 100px;
+        }
+    }
+}
+.div5{
+    padding: 10px;
+    text-align: center;
+    font-size: 14px;
+    background-color:#EAFFEB;
+    position: relative;
+    top: 30px;
+}
+.div6{
+    .div61{
+       position: relative;
+       left: 333px;
+    }
+    img{
+        padding-top: 50px;
+        height: 200px;
+        width: 200px;
+        position: relative;
+        left: 350px;
+    }
+}
+.div7{
+    text-align: center;
+    padding-top: 20px;
+
+    .div71{
+    background-color:#EAFFEB;
+    padding: 10px;
+    }
+
+}
+.div8{
+    display: flex;
+    padding: 50px;
+    gap: 150px;
+    justify-content: center;
+    align-items: center;
+
+.div81{
+    font-size: 20px;
+    background-color:azure;
+    border-radius: 30px;
+    img{
+     height: 200px;
+     width: 200px;
+     position: relative;
+     left: 10px;
+     border-radius: 100px;
+    }
+    .div811{
+        font-family: cursive;
+        font-size: 15px;
+        text-align: center;
+    }
+}
+.div82{
+    font-size: 20px;
+    background-color:azure;
+    border-radius: 30px;
+    img{
+     height: 200px;
+     width: 200px;
+     position: relative;
+     left: 35px;
+     border-radius: 100px;
+    }
+     .div822{
+        font-family: cursive;
+        font-size: 15px;
+        text-align: center;
+    }
+}
+.div83{
+    font-size: 20px;
+    background-color:azure;
+    border-radius: 30px;
+    img{
+     height: 200px;
+     width: 200px;
+     position: relative;
+     left: 25px;
+     border-radius: 100px;
+    }
+     .div833{
+        font-family: cursive;
+        font-size: 15px;
+        text-align: center;
+    }
+}
+}
+.div9 {
+    background-color:#EAFFEB;
+  span{
+    position: relative;
+    left:20px;
+    
+}.what{
+        font-weight: 900px;
+        font-size: 25px;
+        text-align: center;
+        padding: 20px;
+}
+}
+.div10{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    gap: 50px;
+    padding-top: 30px;
+
+    .div101 img{
+        height: 100px;
+        width: 100px;
+        border: 3px solid;
+        border-radius: 100px;
+    }
+    .div102 img{
+        height: 100px;
+        width: 100px;
+        border: 3px solid;
+        border-radius: 100%;
+    }
+    .div103 img{
+        height: 100px;
+        width: 150px;
+        border: 3px solid;
+        border-radius: 100px;
+    }
+    .div1011{
+        font-size: 15px;
+        font-family: cursive;
+        text-align: center;
+    }
+     .div1012{
+        font-size: 15px;
+        font-family: cursive;
+        text-align: center;
+    }
+     .div1013{
+        font-size: 15px;
+        font-family: cursive;
+        text-align: center;
+    }
+     .div1014{
+        font-size: 15px;
+        font-family: cursive;
+        text-align: center;
+    }
+    .div1015{
+        font-size: 10px;
+    }
+}
+
+
+
+
+
+
+
+
+
+
+       
